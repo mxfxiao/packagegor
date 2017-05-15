@@ -1,0 +1,14 @@
+{
+  "name": "packagefor",
+  "version": "1.0.0",
+  "description": "skjfh",
+  "main": "index.js",
+  "scripts": {
+    "test": "sjk"
+  },
+  "keywords": [
+    "ma"
+  ],
+  "author": "mxf",
+  "license": "ISC"
+}
